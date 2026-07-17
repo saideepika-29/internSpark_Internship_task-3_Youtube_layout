@@ -64,7 +64,6 @@ No additional software or dependencies are required.
 - Clicking the notification icon clears notifications.
 - Every video includes an independent Like button.
 - Hovering over a video card provides a smooth animation.
-- Dark mode allows switching between light and dark themes.
 
 
 ## 🔮 Future Enhancements
